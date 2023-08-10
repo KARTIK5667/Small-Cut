@@ -3,7 +3,6 @@ from langchain.chains import LLMChain, SimpleSequentialChain
 from langchain.llms import OpenAI
 from langchain.prompts import PromptTemplate
 import webbrowser
-# Set page config
 from pvrecorder import PvRecorder
 import subprocess
 import sys
